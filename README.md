@@ -1,6 +1,8 @@
 # lzqreg
 Quantile regression to analyze logarithmic relationships with non-positive values in the outcome variable Use lzqreg With STATA 19
 
+https://www.youtube.com/watch?v=2vrFYLaKMKQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
